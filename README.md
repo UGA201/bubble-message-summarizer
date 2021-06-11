@@ -1,6 +1,6 @@
 ![](https://images.velog.io/images/hability24/post/669ae4eb-88a7-4846-8a4d-b9b337892bfa/image.png)
 
-__*상세한 내용은 Colab 파일을 참고해주세요.*__
+__*상세한 내용은 Colab 파일(Bubble_Summarizer.ipynb)을 참고해주세요.*__
 
 <br>
 
